@@ -1,4 +1,4 @@
-# Blockchain-related-papers
+# Blockchain and Database related paper list
 The repo lists the recently papers of Blockchain, outsourcing database, and related crypto tech papers.
 
 ## Blockchain
