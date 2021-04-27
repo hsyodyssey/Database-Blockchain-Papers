@@ -1,4 +1,4 @@
-# Blockchain and Database related paper list
+# Blockchain and Database Related Paper List
 The repo lists the recently papers of Blockchain, outsourcing database, and related crypto tech papers.
 
 ## Blockchain
@@ -16,3 +16,11 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 - Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines, Li FeiFei, ZouLei, VLDB
 - An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning, Guoliang Li and Tencent ,SIGMOD 2019
 - Scheduling OLTP Transactions via Learned Abort Prediction, Andy Pavlo ,SIGMOD 2019
+
+
+# Blockchain and Database Top Reseachers
+
+## Industry
+
+## Academic
+Lei chen， Chair Professor，HKUST，[Crowdsourcing, Blockchain, Knowledge base]
