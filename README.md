@@ -21,6 +21,7 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 # Blockchain and Database Top Reseachers
 
 ## Industry
+- Li Feifei, VP ,Alibaba Damo, [Cloud native database]
 
 ## Academic
 - Andy Pavlo， Associate Professor，CMU， [Database system]
