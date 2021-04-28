@@ -15,7 +15,7 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 ### Waiting list
 - Automatic Database Management System Tuning ThroughLarge-scale Machine Learning, Andy Pavlo ,SIGMOD 2017, [AI FOR DB]
 - iBTune: Individualized Buffer Tuning for Large-scale Cloud Databases, Li FeiFei, VLDB 2019
-- Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines, Li FeiFei, ZouLei, VLDB
+- Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines, Li FeiFei, Zou Lei, VLDB
 - An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning, Guoliang Li and Tencent ,SIGMOD 2019
 - Scheduling OLTP Transactions via Learned Abort Prediction, Andy Pavlo ,SIGMOD 2019
 
