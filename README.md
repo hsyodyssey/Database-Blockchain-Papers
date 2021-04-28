@@ -23,5 +23,5 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 ## Industry
 
 ## Academic
-- Andy Pavlo， Associate Professor，CMU
-- Lei chen， Chair Professor，HKUST，[Crowdsourcing, Blockchain, Knowledge base]
+- Andy Pavlo， Associate Professor，CMU， [Database system]
+- Lei chen， Chair Professor，HKUST，[Crowdsourcing, Blockchain, Knowledge base, Data management]
