@@ -8,11 +8,12 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 
 ## Database Transaction Management
 - Loose-Ordering Consistency for Persistent Memory
+- An Empirical Evaluation of In-Memory Multi-Version Concurrency Control, Andy Pavlo ,VLDB 2017, [MVCC]
 
 ## Database with Machine Learning
 
 ### Waiting list
-- Automatic Database Management System Tuning ThroughLarge-scale Machine Learning, Andy Pavlo ,SIGMOD 2017
+- Automatic Database Management System Tuning ThroughLarge-scale Machine Learning, Andy Pavlo ,SIGMOD 2017, [AI FOR DB]
 - iBTune: Individualized Buffer Tuning for Large-scale Cloud Databases, Li FeiFei, VLDB 2019
 - Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines, Li FeiFei, ZouLei, VLDB
 - An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning, Guoliang Li and Tencent ,SIGMOD 2019
