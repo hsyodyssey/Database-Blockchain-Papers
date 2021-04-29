@@ -26,5 +26,6 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 - Li Feifei, VP, Alibaba Damo, [Cloud native database]
 
 ## Academic
-- Andy Pavlo， Associate Professor，CMU， [Database system]
-- Lei chen， Chair Professor，HKUST，[Crowdsourcing, Blockchain, Knowledge base, Data management]
+- Andy Pavlo, Associate Professor，CMU, [Database system]
+- Lei chen, Chair Professor, HKUST, [Crowdsourcing, Blockchain, Knowledge base, Data management]
+- Guoliang li, Professor, Tsinghua , [Crowdsourcing, Database]
