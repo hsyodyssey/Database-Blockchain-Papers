@@ -14,8 +14,6 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 - FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIDMOG 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
 
 ## Database with Machine Learning
-
-### Waiting list
 - Automatic Database Management System Tuning ThroughLarge-scale Machine Learning, Andy Pavlo ,SIGMOD 2017, [AI FOR DB]
 - iBTune: Individualized Buffer Tuning for Large-scale Cloud Databases, Li FeiFei, VLDB 2019
 - Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines, Li FeiFei, Zou Lei, VLDB
@@ -33,5 +31,5 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 - Lei chen, Chair Professor, HKUST, [Crowdsourcing, Blockchain, Knowledge base, Data management]
 - Guoliang li, Professor, Tsinghua , [Crowdsourcing, Database]
 
-### Other references
+# Other references
 - Raft in Live [[link]](http://thesecretlivesofdata.com/raft/)
