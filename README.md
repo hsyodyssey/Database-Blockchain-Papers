@@ -10,6 +10,9 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 - Loose-Ordering Consistency for Persistent Memory
 - An Empirical Evaluation of In-Memory Multi-Version Concurrency Control, Andy Pavlo ,VLDB 2017, [MVCC]
 
+## Database System
+- FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIDMOG 2021, [Paper](https://www.foundationdb.org/files/fdb-paper.pdf)
+
 ## Database with Machine Learning
 
 ### Waiting list
