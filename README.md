@@ -29,3 +29,6 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 - Andy Pavlo, Associate Professor，CMU, [Database system]
 - Lei chen, Chair Professor, HKUST, [Crowdsourcing, Blockchain, Knowledge base, Data management]
 - Guoliang li, Professor, Tsinghua , [Crowdsourcing, Database]
+
+## Other references
+- Raft in Live [link](http://thesecretlivesofdata.com/raft/)
