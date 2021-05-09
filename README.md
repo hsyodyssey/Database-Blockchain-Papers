@@ -17,6 +17,7 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 ### Database Transaction Management
 - Loose-Ordering Consistency for Persistent Memory
 - TicToc: Time Traveling Optimistic Concurrency Control, Andy Pavlo, SIGMOD 2016, [MVCC] [[Paper]](https://people.csail.mit.edu/devadas/pubs/tictoc.pdf)
+- Cicada: Dependably Fast Multi-Core In-Memory Transactions, SIGMOD 2016, [In-Memory ] [[Paper]](https://15721.courses.cs.cmu.edu/spring2018/papers/06-mvcc2/lim-sigmod2017.pdf)
 - An Empirical Evaluation of In-Memory Multi-Version Concurrency Control, Andy Pavlo,VLDB 2017, [MVCC]
 
 ### Database with Machine Learning
