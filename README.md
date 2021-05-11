@@ -39,3 +39,4 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 
 # Other references
 - Raft in Live [[link]](http://thesecretlivesofdata.com/raft/)
+- ZKP [[link]](http://www.zeroknowledgeblog.com/)
