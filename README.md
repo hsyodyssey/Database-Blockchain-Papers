@@ -14,6 +14,9 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 ## Database System
 - FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIDMOG 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
 
+### Database Recovery
+- Constant Time Recovery in Azure SQL Database, MS Inc, VLDB 2019, [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/p700-antonopoulos.pdf)
+
 ### Database Transaction Management
 - Loose-Ordering Consistency for Persistent Memory
 - TicToc: Time Traveling Optimistic Concurrency Control, Andy Pavlo, SIGMOD 2016, [MVCC] [[Paper]](https://people.csail.mit.edu/devadas/pubs/tictoc.pdf)
