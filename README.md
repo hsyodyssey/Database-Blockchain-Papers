@@ -30,6 +30,9 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 - An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning, Guoliang Li and Tencent ,SIGMOD 2019
 - Scheduling OLTP Transactions via Learned Abort Prediction, Andy Pavlo ,SIGMOD 2019
 
+### Deterministic Database System
+- An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems, VLDB 2014
+
 # Blockchain and Database Top Reseachers
 
 ## Industry
