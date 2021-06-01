@@ -34,6 +34,9 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 ### Deterministic Database System
 - An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems, VLDB 2014, [[Paper]](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.14778/2732951.2732955)
 
+### Query Optimazition
+- An End-to-End Learning-based Cost Estimator, Li guoliang, VLDB 2019, [[paper]](https://15721.courses.cs.cmu.edu/spring2020/papers/22-costmodels/p307-sun.pdf)
+
 # Blockchain and Database Top Reseachers
 
 ## Industry
