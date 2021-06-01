@@ -8,12 +8,14 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 
 ## Database 
 
-## Indexing and data structure
+### Indexing and data structure
 
 
-## Database System
+### Database System
 - FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIDMOG 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
 
+### Concurrency
+- Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
 
 ### Database Recovery
 - Constant Time Recovery in Azure SQL Database, MS Inc, VLDB 2019, [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/p700-antonopoulos.pdf)
