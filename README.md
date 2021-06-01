@@ -14,6 +14,7 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 ## Database System
 - FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIDMOG 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
 
+
 ### Database Recovery
 - Constant Time Recovery in Azure SQL Database, MS Inc, VLDB 2019, [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/p700-antonopoulos.pdf)
 
@@ -31,7 +32,7 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 - Scheduling OLTP Transactions via Learned Abort Prediction, Andy Pavlo ,SIGMOD 2019
 
 ### Deterministic Database System
-- An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems, VLDB 2014
+- An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems, VLDB 2014, [[Paper]](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.14778/2732951.2732955)
 
 # Blockchain and Database Top Reseachers
 
