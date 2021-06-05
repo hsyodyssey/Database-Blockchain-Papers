@@ -17,7 +17,7 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 ### Concurrency
 - Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
 - Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering, MS, VLDB 2018, [[paper]](http://www.vldb.org/pvldb/vol12/p169-ding.pdf)
-- Handling Highly Contended OLTP Workloads Using Fast Dynamic Partitioning, SIGMOD 2020, [[paper]](Handling Highly Contended OLTP Workloads Using Fast Dynamic Partitioning)
+- Handling Highly Contended OLTP Workloads Using Fast Dynamic Partitioning, SIGMOD 2020, [[paper]](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.1145/3318464.3389764)
 - Polyjuice: High-Performance Transactions via Learned Concurrency Control, OSDI 2021, [[paper]](https://arxiv.org/pdf/2105.10329.pdf)
 
 ### Database Recovery
