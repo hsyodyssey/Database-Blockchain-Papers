@@ -17,6 +17,7 @@ The repo lists the recently papers of Blockchain, outsourcing database, and rela
 ### Concurrency
 - Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
 - Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering, MS, VLDB 2018, [[paper]](http://www.vldb.org/pvldb/vol12/p169-ding.pdf)
+- Polyjuice: High-Performance Transactions via Learned Concurrency Control, OSDI 2021, [[paper]](https://arxiv.org/pdf/2105.10329.pdf)
 
 ### Database Recovery
 - Constant Time Recovery in Azure SQL Database, MS Inc, VLDB 2019, [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/p700-antonopoulos.pdf)
