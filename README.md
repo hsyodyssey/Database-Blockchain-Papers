@@ -21,6 +21,7 @@ Conference
 
 ### Concurrency
 - Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
+- TicToc: Time Traveling Optimistic Concurrency Control, SIGMOD 2016, [[paper]](https://people.csail.mit.edu/devadas/pubs/tictoc.pdf)
 - Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering, MS, VLDB 2018, [[paper]](http://www.vldb.org/pvldb/vol12/p169-ding.pdf)
 - Handling Highly Contended OLTP Workloads Using Fast Dynamic Partitioning, Dan Suciu ,SIGMOD 2020, [[paper]](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.1145/3318464.3389764)
 - Polyjuice: High-Performance Transactions via Learned Concurrency Control, OSDI 2021, [[paper]](https://arxiv.org/pdf/2105.10329.pdf)
