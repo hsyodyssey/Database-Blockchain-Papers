@@ -59,6 +59,8 @@ Prediction)
 - Andy Pavlo, Associate Professor，CMU, [Database system]
 - Lei chen, Chair Professor, HKUST, [Crowdsourcing, Blockchain, Knowledge base, Data management]
 - Guoliang li, Professor, Tsinghua , [Crowdsourcing, Database]
+- Daniel J. Abadi
+- Lorenzo Alvisi
 
 # Other references
 - Raft in Live [[link]](http://thesecretlivesofdata.com/raft/)
