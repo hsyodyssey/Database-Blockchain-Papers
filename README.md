@@ -62,6 +62,7 @@ Prediction)
 - Guoliang li, Professor, Tsinghua , [Crowdsourcing, Database]
 - Daniel J. Abadi
 - Lorenzo Alvisi
+- Xiangyao Yu, Assistant Professor, UW, [Database system],[[Homepage]](http://pages.cs.wisc.edu/~yxy/)
 
 # Other references
 - Raft in Live [[link]](http://thesecretlivesofdata.com/raft/)
