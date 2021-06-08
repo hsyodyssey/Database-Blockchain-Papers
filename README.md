@@ -58,11 +58,12 @@ Prediction)
 
 ## Academic
 - Andy Pavlo, Associate Professor，CMU, [Database system]
+  - Xiangyao Yu, Assistant Professor, UW, [Database system] [[Homepage]](http://pages.cs.wisc.edu/~yxy/)
 - Lei chen, Chair Professor, HKUST, [Crowdsourcing, Blockchain, Knowledge base, Data management]
 - Guoliang li, Professor, Tsinghua , [Crowdsourcing, Database]
-- Daniel J. Abadi
+- Samuel Madden, Professor, MIT, [Database system][[Homepage]](http://db.csail.mit.edu/madden/)
+  - Daniel J. Abadi, Professor, umd, [Database system][[Homepage]](http://www.cs.umd.edu/~abadi/)
 - Lorenzo Alvisi
-- Xiangyao Yu, Assistant Professor, UW, [Database system],[[Homepage]](http://pages.cs.wisc.edu/~yxy/)
 
 # Other references
 - Raft in Live [[link]](http://thesecretlivesofdata.com/raft/)
