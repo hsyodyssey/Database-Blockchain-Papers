@@ -46,6 +46,7 @@ Prediction)
 
 ### Deterministic Database System
 - An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems, VLDB 2014, [[Paper]](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.14778/2732951.2732955)
+- Aria: A Fast and Practical Deterministic OLTP Database, VLDB 2020, [[paper]](http://www.vldb.org/pvldb/vol13/p2047-lu.pdf)
 
 ### Query Optimazition
 - An End-to-End Learning-based Cost Estimator, Li guoliang, VLDB 2019, [[paper]](https://15721.courses.cs.cmu.edu/spring2020/papers/22-costmodels/p307-sun.pdf)
