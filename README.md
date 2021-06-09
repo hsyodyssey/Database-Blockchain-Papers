@@ -44,8 +44,11 @@ Conference
 - Scheduling OLTP Transactions via Learned Abort Prediction, Andy Pavlo , SIGMOD 2019, [[paper]](Scheduling OLTP Transactions via Learned Abort
 Prediction)
 
+### Database with Modern Hardware 
+- A Study of the Fundamental Performance Characteristics of GPUs and CPUs for Database Analytics, **SIGMOD 2020**, Samuel Madden, Xiangyao Yu, [[paper]](http://pages.cs.wisc.edu/~yxy/pubs/crystal.pdf)
+
 ### Deterministic Database System
-- An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems, VLDB 2014, [[Paper]](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.14778/2732951.2732955)
+- An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems, **VLDB 2014**, [[Paper]](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.14778/2732951.2732955)
 - Aria: A Fast and Practical Deterministic OLTP Database, VLDB 2020, [[paper]](http://www.vldb.org/pvldb/vol13/p2047-lu.pdf)
 
 ### Query Optimazition
