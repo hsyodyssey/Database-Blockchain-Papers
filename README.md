@@ -60,7 +60,7 @@ Prediction)
 - Li Feifei, VP, Alibaba Damo, [Cloud native database]
 
 ## Academic
-- Andy Pavlo, Associate Professor，CMU, [Database system]
+- Andy Pavlo, Associate Professor，CMU, [Database system] [[Homepage]](http://www.cs.cmu.edu/~pavlo/)
   - Xiangyao Yu, Assistant Professor, UW, [Database system] [[Homepage]](http://pages.cs.wisc.edu/~yxy/)
 - Lei chen, Chair Professor, HKUST, [Crowdsourcing, Blockchain, Knowledge base, Data management]
 - Guoliang li, Professor, Tsinghua , [Crowdsourcing, Database]
