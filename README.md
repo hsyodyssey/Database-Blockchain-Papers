@@ -17,7 +17,8 @@ Inculding Conferences
 
 
 ### Database System
-- FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIDMOG 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
+- CockroachDB: The Resilient Geo-Distributed SQL Database, SIGMOD 2020, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3318464.3386134)
+- FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIGMOD 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
 
 ### Concurrency
 - Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
