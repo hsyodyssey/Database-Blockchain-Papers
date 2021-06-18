@@ -1,7 +1,7 @@
 # Database and Blockchain Related Paper List
 The repo lists recently papers of Blockchain, Outsourcing Database, Database Transaction Management, Database with modern AI and Hardware, and other related crypto tech papers.
 
-**㊙️** means Recommendation 
+**㊙️**  means Recommendation 
 
 Inculding Conferences
 - OSDI
@@ -23,8 +23,8 @@ Inculding Conferences
 - FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIGMOD 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
 
 ### Concurrency
-- **㊙️** Making Snapshot Isolation Serializable, [[paper]](http://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/p492-fekete.pdf)
-- **㊙️** Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
+- **㊙️**  Making Snapshot Isolation Serializable, [[paper]](http://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/p492-fekete.pdf)
+- **㊙️**  Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
 - TicToc: Time Traveling Optimistic Concurrency Control, SIGMOD 2016, [[paper]](https://people.csail.mit.edu/devadas/pubs/tictoc.pdf)
 - Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering, MS, VLDB 2018, [[paper]](http://www.vldb.org/pvldb/vol12/p169-ding.pdf)
 - Handling Highly Contended OLTP Workloads Using Fast Dynamic Partitioning, Dan Suciu ,SIGMOD 2020, [[paper]](https://dl-acm-org.lib.ezproxy.ust.hk/doi/pdf/10.1145/3318464.3389764)
