@@ -21,6 +21,7 @@ Inculding Conferences
 - FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIGMOD 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
 
 ### Concurrency
+- **㊙️㊙️㊙️** Making Snapshot Isolation Serializable, [[paper]](http://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/p492-fekete.pdf)
 - Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
 - TicToc: Time Traveling Optimistic Concurrency Control, SIGMOD 2016, [[paper]](https://people.csail.mit.edu/devadas/pubs/tictoc.pdf)
 - Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering, MS, VLDB 2018, [[paper]](http://www.vldb.org/pvldb/vol12/p169-ding.pdf)
