@@ -42,8 +42,7 @@ Inculding Conferences
 - iBTune: Individualized Buffer Tuning for Large-scale Cloud Databases, Li FeiFei, VLDB 2019
 - Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines, Li FeiFei, Zou Lei, VLDB 2020, [[paper]](http://www.vldb.org/pvldb/vol13/p1976-yang.pdf)
 - An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning, Guoliang Li and Tencent , SIGMOD 2019
-- Scheduling OLTP Transactions via Learned Abort Prediction, Andy Pavlo , SIGMOD 2019, [[paper]](Scheduling OLTP Transactions via Learned Abort
-Prediction)
+- Scheduling OLTP Transactions via Learned Abort Prediction, Andy Pavlo , SIGMOD 2019, [[paper]](https://db.cs.cmu.edu/papers/2019/a1-sheng.pdf)
 
 ### Database with Modern Hardware 
 - A Study of the Fundamental Performance Characteristics of GPUs and CPUs for Database Analytics, **SIGMOD 2020**, Samuel Madden, Xiangyao Yu, [[paper]](http://pages.cs.wisc.edu/~yxy/pubs/crystal.pdf)
