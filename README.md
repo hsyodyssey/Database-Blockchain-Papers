@@ -1,7 +1,7 @@
 # Database and Blockchain Related Paper List
 The repo lists recently papers of Blockchain, Outsourcing Database, Database Transaction Management, Database with modern AI and Hardware, and other related crypto tech papers.
 
-[:accept:] means Recommendation 
+(:accept:) means Recommendation 
 
 Inculding Conferences
 - OSDI
