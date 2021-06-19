@@ -1,11 +1,11 @@
 # Database and Blockchain Related Paper List
 The repo lists recently papers of Blockchain, Outsourcing Database, Database Transaction Management, Database with modern AI and Hardware, and other related crypto tech papers.
 
-[:accept:] means Recommendation 
-[:accept: :accept:] means Strong Recommendation 
+- [:accept:] means Recommendation 
+- [:accept: :accept:] means Strong Recommendation 
 
 
-Inculding Conferences
+Inculding Top Conferences in Database and Distributed System Area
 - OSDI
 - SIGMOD
 - VLDB
