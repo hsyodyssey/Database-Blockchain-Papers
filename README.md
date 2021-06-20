@@ -1,5 +1,11 @@
 # Database and Blockchain Related Paper List
-The repo lists recently papers of Blockchain, Outsourcing Database, Database Transaction Management, Database with modern AI and Hardware, and other related crypto tech papers.
+The repo lists recently papers published in the TOP conference whose relate with following topics:
++ Blockchain, 
++ Outsourcing Database, 
++ Database Transaction Management, 
++ Concurrency Control,
++ Database with modern AI and Hardware, 
++ crypto tech .
 
 - [:accept:] means Recommendation 
 - [:accept: :accept:] means Strong Recommendation 
