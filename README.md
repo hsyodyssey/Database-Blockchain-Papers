@@ -49,9 +49,10 @@ Inculding Top Conferences in Database and Distributed System Area
 - Large-scale Incremental Processing Using Distributed Transactions and Notifications, [[paper]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)
 
 ### Database with Machine Learning
-- Automatic Database Management System Tuning ThroughLarge-scale Machine Learning, Andy Pavlo , SIGMOD 2017, [AI FOR DB]
-- iBTune: Individualized Buffer Tuning for Large-scale Cloud Databases, Li FeiFei, VLDB 2019
+- Automatic Database Management System Tuning ThroughLarge-scale Machine Learning, Andy Pavlo, SIGMOD 2017, [AI FOR DB]
+- Query-based Workload Forecasting for Self-Driving Database Management Systems, Lin Ma,Andy Pavlo, SIGMOD 2018, [[paper]](http://www.cs.cmu.edu/~malin199/publications/2018.forecasting.sigmod.pdf)
 - Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines, Li FeiFei, Zou Lei, VLDB 2020, [[paper]](http://www.vldb.org/pvldb/vol13/p1976-yang.pdf)
+- iBTune: Individualized Buffer Tuning for Large-scale Cloud Databases, Li FeiFei, VLDB 2019
 - An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning, Guoliang Li and Tencent , SIGMOD 2019
 - Scheduling OLTP Transactions via Learned Abort Prediction, Andy Pavlo , SIGMOD 2019, [[paper]](https://db.cs.cmu.edu/papers/2019/a1-sheng.pdf)
 
