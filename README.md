@@ -2,15 +2,17 @@
 
 The repo lists recently papers published in the TOP conference whose relate with following topics:
 
-- Blockchain
-- Outsourcing Database
-- Database Transaction Management
-- Concurrency Control
+- Blockchain (BC)
+  - Cryptocurrency (Crypto)
+  - Smart Contract (SC)
+- Benchmark (BE)
+- Concurrency Control (CC)
+- Cloud Native Database (CND)
+- Database Transaction Management (DTM)
 - Database with modern AI and Hardware (DB4AI)
-- Crypto tech
-- Storage Engine
-- Benchmark
-- Query
+- Storage Engine (SE)
+- Query Optimization (QO)
+- Outsourcing Database (OD)
 
 Inculding Top Conferences in Database and Distributed System Area
 
@@ -18,25 +20,30 @@ Inculding Top Conferences in Database and Distributed System Area
 - SIGMOD
 - VLDB
 - SOSP
+- CIDR
 
 ## Blockchain Papers
 
-- Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric, SIGMOD 2019
-- FlyClient: Super-Light Clients for Cryptocurrencies 2020 [[paper]](https://eprint.iacr.org/2019/226.pdf)
-- Zether: Towards Privacy in a Smart Contract World [[paper]](https://crypto.stanford.edu/~buenz/papers/zether.pdf)
+- **[BC]** Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric, SIGMOD 2019
+- **[BC, Crypto]** FlyClient: Super-Light Clients for Cryptocurrencies 2020 [[paper]](https://eprint.iacr.org/2019/226.pdf)
+- **[BC, Crypto]** Zether: Towards Privacy in a Smart Contract World [[paper]](https://crypto.stanford.edu/~buenz/papers/zether.pdf)
 
 ## Database Paper
-
-### Indexing and data structure
 
 ### Database System
 
 - CockroachDB: The Resilient Geo-Distributed SQL Database, SIGMOD 2020, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3318464.3386134)
 - FoundationDB: A Distributed Unbundled Transactional Key Value Store, Apple Inc, SIGMOD 2021, [[Paper]](https://www.foundationdb.org/files/fdb-paper.pdf)
 
-### Concurrency
+### Alibaba Database Related
 
-- Making Snapshot Isolation Serializable, [[paper]](http://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/p492-fekete.pdf)
+- Cloud-Native Database Systems at Alibaba: Opportunities and Challenges, *Li Feifei*, **VLDB 2019** [[paper]](http://www.vldb.org/pvldb/vol12/p2263-li.pdf)
+
+### Cloud Native Database
+
+### Concurrency Control
+
+- Making Snapshot Isolation Serializable, **TODS 2015**, [[paper]](http://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/p492-fekete.pdf)
 - Serializable Snapshot Isolation in PostgreSQL, VLDB 2012, [[paper]](https://drkp.net/papers/ssi-vldb12.pdf)
 - TicToc: Time Traveling Optimistic Concurrency Control, SIGMOD 2016, [[paper]](https://people.csail.mit.edu/devadas/pubs/tictoc.pdf)
 - Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering, MS, VLDB 2018, [[paper]](http://www.vldb.org/pvldb/vol12/p169-ding.pdf)
