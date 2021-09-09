@@ -11,6 +11,7 @@ The repo lists recently papers published in the TOP conference whose relate with
 - Database Transaction Management (DTM)
 - Database with modern AI and Hardware (DB4AI)
 - Storage Engine (SE)
+  - Log-structured merge tree (LSM)
 - Query Optimization (QO)
 - Outsourcing Database (OD)
 
@@ -19,6 +20,7 @@ Inculding Top Conferences in Database and Distributed System Area
 - OSDI
 - SIGMOD
 - VLDB
+- FAST
 - SOSP
 - CIDR
 
