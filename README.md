@@ -17,7 +17,7 @@ The repo lists recently papers published in the TOP conference whose relate with
 
 Inculding Top Conferences in Database and Distributed System Area
 
-- OSDI
+- OSDI (USENIX Symposium on Operating Systems Design and Implementation)
 - SIGMOD
 - VLDB
 - FAST
@@ -85,6 +85,10 @@ Inculding Top Conferences in Database and Distributed System Area
 ### Query Optimization
 
 - An End-to-End Learning-based Cost Estimator, Li guoliang, VLDB 2019, [[paper]](https://15721.courses.cs.cmu.edu/spring2020/papers/22-costmodels/p307-sun.pdf)
+
+### LSM-Tree
+
+- From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees, **OSDI 2020**, [[paper]](https://www.usenix.org/system/files/osdi20-dai_0.pdf)
 
 ### Benchmark
 
