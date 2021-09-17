@@ -63,6 +63,7 @@ Inculding Top Conferences in Database and Distributed System Area
 - Cicada: Dependably Fast Multi-Core In-Memory Transactions, SIGMOD 2017, [In-Memory] [[Paper]](https://15721.courses.cs.cmu.edu/spring2018/papers/06-mvcc2/lim-sigmod2017.pdf)
 - An Empirical Evaluation of In-Memory Multi-Version Concurrency Control, Andy Pavlo,VLDB 2017, [MVCC]
 - Large-scale Incremental Processing Using Distributed Transactions and Notifications, [[paper]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)
+-Epoch-based Commit and Replication in Distributed OLTP Databases, VLDB 2021, [[paper]](http://vldb.org/pvldb/vol14/p743-lu.pdf)
 
 ### Database with Machine Learning
 
